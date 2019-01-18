@@ -3,3 +3,11 @@
 But de l'évaluation : Vérifier et évaluer le développeur sur ses capacités à contextualiser un espace de développement décentralisé
 
 But du projet : Rien d'impressionnant, une page (en anglais), regroupant différentes commandes propres à Git
+
+Historique du projet :
+- Création du dépôt distant
+- Clonage vers 2 dépôts locaux
+- Création du dossier ressources et du fichier index.html dans local1 sur master
+- Récuperation des ressources sur local2
+- Création d'une feature Readme sur local1 puis push sur developp des modifications
+- 
