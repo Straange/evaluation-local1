@@ -10,4 +10,5 @@ Historique du projet :
 - Création du dossier ressources et du fichier index.html dans local1 sur master
 - Récuperation des ressources sur local2
 - Création d'une feature Readme sur local1 puis push sur developp des modifications
-- 
+- Création d'une feature index et readme sur local2 puis push sur develop des modifications
+- Modifications du style css en local1 et modifications du readme en local1
